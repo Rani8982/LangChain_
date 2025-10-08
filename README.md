@@ -11,7 +11,7 @@ This project turns your unstructured documents into **searchable, AI-understanda
 - Automatically **split and structure large texts** into semantic chunks  
 - Generate **Hugging Face sentence embeddings** for contextual understanding  
 - Store and query document embeddings using **ChromaDB**  
-- Works **locally** — no API keys or internet required  
+- Works **locally** — local machine required  
 
 **Pipeline Flow:**
 1. Upload → PDF/Excel Loader  
